@@ -36,6 +36,9 @@
 
 ## Configuration
 
+* [Titre du site](configuration/titre-du-site.md)
+* [Logos](configuration/logos.md)
+* [Google Analytics](configuration/google-analytics.md)
 * [Charte graphique](configuration/charte-graphique.md)
 * [Vider le cache](configuration/vider-le-cache.md)
 
