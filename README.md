@@ -14,9 +14,3 @@ L'accès aux fonctionnalités de TYPO3 est réservé aux utilisateurs possédant
 
 TYPO3 fonctionne avec différents navigateurs tels que Internet Explorer ou Mozilla Firefox. Le navigateur doit accepter les cookies et le JavaScript doit être activé. La gestion du cache du navigateur doit être configurée de telle façon qu'à chaque visite de la page, le système vérifie s'il en existe une version plus récente. Il convient de solliciter l'aide de votre administrateur pour réaliser ces réglages en cas de difficultés.
 
-### **Sommaire**
-
-1. [Accès et identification](https://github.com/AgrosupDijon-DSI/guide-utilisateur-t3cem/blob/master/fiches-dutilisation-de-typo3/premiers-pas/acces-et-identification.md)
-2. [Se repérer dans le "Backend"](https://github.com/AgrosupDijon-DSI/guide-utilisateur-t3cem/blob/master/fiches-dutilisation-de-typo3/premiers-pas/se-reperer-dans-le-backend.md)
-3. [Éditer mon compte](https://github.com/AgrosupDijon-DSI/guide-utilisateur-t3cem/blob/master/fiches-dutilisation-de-typo3/premiers-pas/editer-mon-compte.md)
-

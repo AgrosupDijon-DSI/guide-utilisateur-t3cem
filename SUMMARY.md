@@ -1,30 +1,41 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Accès et identification](acces-et-identification.md)
-* [Se repérer dans le "Backend"](se-reperer-dans-le-backend.md)
-* [Éditer mon compte](editer-mon-compte.md)
-* [Vider le cache](vider-le-cache.md)
-* [Gestion des pages](gestion-des-pages/README.md)
-  * [Créer une page](gestion-des-pages/creer-une-page.md)
-  * [Éditer une page](gestion-des-pages/editer-une-page.md)
-* [Gestion du contenu](gestion-du-contenu/README.md)
-  * [Créer un élément de contenu](gestion-du-contenu/creer-un-element-de-contenu.md)
-  * [Éditer élément de contenu](gestion-du-contenu/editer-element-de-contenu.md)
-  * [Types de contenu](gestion-du-contenu/types-de-contenu/README.md)
-    * [Titre](gestion-du-contenu/types-de-contenu/titre.md)
-    * [Texte](gestion-du-contenu/types-de-contenu/texte.md)
-    * [Image](gestion-du-contenu/types-de-contenu/image.md)
-    * [Vidéo](gestion-du-contenu/types-de-contenu/video.md)
-    * [Audio](gestion-du-contenu/types-de-contenu/audio.md)
-* [Gestion des actualités](gestion-des-actualites/README.md)
-  * [Créer une actualité](gestion-des-actualites/creer-une-actualite.md)
-  * [Éditer une actualité](gestion-des-actualites/editer-une-actualite.md)
-* [Gestion des utilisateurs](gestion-des-utilisateurs/README.md)
-  * [Types de profils](gestion-des-utilisateurs/types-de-profils.md)
-  * [Créer un utilisateur](gestion-des-utilisateurs/creer-un-utilisateur.md)
-* [Gestion des fichiers](gestion-des-fichiers/README.md)
-  * [Créer un répertoire](gestion-des-fichiers/creer-un-repertoire.md)
-  * [Ajouter un fichier](gestion-des-fichiers/ajouter-un-fichier.md)
-* [Charte graphique](charte-graphique.md)
+
+## Introduction
+
+* [Accès et identification](introduction/acces-et-identification.md)
+* [Se repérer dans le "Backend"](introduction/se-reperer-dans-le-backend.md)
+* [Éditer mon compte](introduction/editer-mon-compte.md)
+
+## Gestion des pages <a id="gestion-des-pages-1"></a>
+
+* [Généralités](gestion-des-pages-1/generalites-pages.md)
+* [Créer une page](gestion-des-pages-1/creer-une-page.md)
+* [Éditer une page](gestion-des-pages-1/editer-une-page.md)
+* [Créer un élément de contenu](gestion-des-pages-1/creer-un-element-de-contenu.md)
+* [Éditer élément de contenu](gestion-des-pages-1/editer-element-de-contenu.md)
+* [Types de contenu](gestion-des-pages-1/types-de-contenu/README.md)
+  * [Titre](gestion-des-pages-1/types-de-contenu/titre.md)
+  * [Texte](gestion-des-pages-1/types-de-contenu/texte.md)
+  * [Image](gestion-des-pages-1/types-de-contenu/image.md)
+  * [Vidéo](gestion-des-pages-1/types-de-contenu/video.md)
+  * [Audio](gestion-des-pages-1/types-de-contenu/audio.md)
+
+## Gestion des actualités <a id="gestion-des-actualites-1"></a>
+
+* [Créer une actualité](gestion-des-actualites-1/creer-une-actualite.md)
+* [Éditer une actualité](gestion-des-actualites-1/editer-une-actualite.md)
+* [Ajouter une liste d'actualité](gestion-des-actualites-1/ajouter-une-liste-dactualite.md)
+
+## Gestion des fichiers <a id="gestion-des-fichiers-1"></a>
+
+* [Généralités](gestion-des-fichiers-1/generalites-fichiers.md)
+* [Créer un répertoire](gestion-des-fichiers-1/creer-un-repertoire.md)
+* [Ajouter un fichier](gestion-des-fichiers-1/ajouter-un-fichier.md)
+
+## Configuration
+
+* [Charte graphique](configuration/charte-graphique.md)
+* [Vider le cache](configuration/vider-le-cache.md)
 
