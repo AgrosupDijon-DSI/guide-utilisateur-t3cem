@@ -7,7 +7,7 @@ L'intérêt d'avoir une charte graphique est double :
 * l'identité graphique est homogène quelle que soit la personne rédigeant les contenus. La charte graphique est appliquée sur toutes les pages du site afin d'assurer cette cohérence.
 * la charte graphique participe à l'identification de l'organisme par ses publics cibles \(clients, prospects, partenaires\). Cela crée des repères visuels immédiatement reconnaissables.
 
-La mise en place d'une charte graphique aboutit généralement à la création de modèles de pages \(en anglais "templates"\), servant de gabarits pour la création du site web. Ces modèles sont des pages web représentant le squelette graphique d'une page type.
+La mise en place d'une charte graphique aboutit généralement à la création de modèles de pages \(en anglais **templates**\), servant de gabarits pour la création du site web. Ces modèles sont des pages web représentant le squelette graphique d'une page type.
 
 Il existe deux principaux modèles :
 

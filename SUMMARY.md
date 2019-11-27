@@ -19,8 +19,21 @@
   * [Titre](gestion-des-pages-1/types-de-contenu/titre.md)
   * [Texte](gestion-des-pages-1/types-de-contenu/texte.md)
   * [Image](gestion-des-pages-1/types-de-contenu/image.md)
-  * [Vidéo](gestion-des-pages-1/types-de-contenu/video.md)
-  * [Audio](gestion-des-pages-1/types-de-contenu/audio.md)
+  * [Liste à puces](gestion-des-pages-1/types-de-contenu/liste-a-puces.md)
+  * [Tableau](gestion-des-pages-1/types-de-contenu/tableau.md)
+  * [Média](gestion-des-pages-1/types-de-contenu/media.md)
+  * [Icône](gestion-des-pages-1/types-de-contenu/icone.md)
+  * [Accordéon](gestion-des-pages-1/types-de-contenu/accordeon.md)
+  * [Onglet](gestion-des-pages-1/types-de-contenu/onglet.md)
+  * [Message](gestion-des-pages-1/types-de-contenu/message.md)
+  * [Carousel](gestion-des-pages-1/types-de-contenu/carousel.md)
+  * [Liste de fichiers](gestion-des-pages-1/types-de-contenu/liste-de-fichiers.md)
+  * [Séparateur](gestion-des-pages-1/types-de-contenu/separateur.md)
+  * [Enregistrement](gestion-des-pages-1/types-de-contenu/enregistrement.md)
+  * [HTML](gestion-des-pages-1/types-de-contenu/html.md)
+  * [Formulaire](gestion-des-pages-1/types-de-contenu/formulaire.md)
+  * [Menu](gestion-des-pages-1/types-de-contenu/menu.md)
+  * [Plugin](gestion-des-pages-1/types-de-contenu/plugin.md)
 
 ## Gestion des actualités <a id="gestion-des-actualites-1"></a>
 

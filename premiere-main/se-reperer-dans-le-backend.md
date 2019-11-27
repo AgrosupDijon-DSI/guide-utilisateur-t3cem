@@ -4,7 +4,7 @@ Après identification, TYPO3 propose d'accéder directement à différents espac
 
 ## Barre d'outils
 
-![](../.gitbook/assets/admin_typo3_head.png)
+![Barre d&apos;outils de TYPO3](../.gitbook/assets/image%20%281%29.png)
 
 Cette barre, affichée en entête de manière permanente, permet \(de gauche à droite\) :
 
@@ -27,7 +27,7 @@ Sous forme de menu, cet élément représente le point d'entrée pour toutes les
 * Liste : permet de gérer les enregistrements liés à une page ;
 * Gestion des Actualités : permet de gérer les actualités du site ;
 * Fichiers : permet gérer les fichiers stockés sur le site ;
-* TC TOOLS : différents outils réservés à l'administrateur pour gérer les utilisateurs "Backend".
+* Website : permet de configurer les informations du site.
 
 ### Zone 2 \| Arborescence
 

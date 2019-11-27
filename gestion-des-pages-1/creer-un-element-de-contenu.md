@@ -4,7 +4,7 @@ Pour ajouter du contenu dans une page :
 
 * Sélectionner le mode **Page** dans la [Liste des modules](../premiere-main/se-reperer-dans-le-backend.md) ;
 * Cliquer sur la page dans laquelle doit être inséré le contenu dans l'[Arborescence](../premiere-main/se-reperer-dans-le-backend.md);
-* Cliquer sur l’icône ![](../.gitbook/assets/add_content_btn.png) **Contenu** dans la [Vue détaillée](../premiere-main/se-reperer-dans-le-backend.md) \_\*\*\_pour créer un nouvel élément de contenu dans la page.
+* Cliquer sur l’icône ![](../.gitbook/assets/add_content_btn.png) **Contenu** dans la [Vue détaillée](../premiere-main/se-reperer-dans-le-backend.md) pour créer un nouvel élément de contenu dans la page.
 
 Une liste de tous les types de contenus disponibles est alors proposée, organisée par onglet en fonction de leurs spécificités :
 
