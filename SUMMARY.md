@@ -1,9 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
-
-## Fiches d'utilisation de TYPO3
-
 * [Premiers pas](fiches-dutilisation-de-typo3/premiers-pas/README.md)
   * [Accès et identification](fiches-dutilisation-de-typo3/premiers-pas/acces-et-identification.md)
   * [Se repérer dans le "Backend"](fiches-dutilisation-de-typo3/premiers-pas/se-reperer-dans-le-backend.md)
