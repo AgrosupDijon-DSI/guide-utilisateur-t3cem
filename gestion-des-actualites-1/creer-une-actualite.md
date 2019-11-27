@@ -10,8 +10,8 @@ Sur la page d'accueil, figurent généralement les 3-4 dernières actualités cr
 
 Pour ajouter une nouvelle actualité :
 
-* Sélectionner le mode **Gestion des Actualités** dans la [Liste des modules](../introduction/se-reperer-dans-le-backend.md) ;
-* Cliquer sur l’icône ![](../.gitbook/assets/add_actu_btn.png) **Créer une nouvelle actualité** dans la [Vue détaillée](../introduction/se-reperer-dans-le-backend.md).
+* Sélectionner le mode **Gestion des Actualités** dans la [Liste des modules](../premiere-main/se-reperer-dans-le-backend.md) ;
+* Cliquer sur l’icône ![](../.gitbook/assets/add_actu_btn.png) **Créer une nouvelle actualité** dans la [Vue détaillée](../premiere-main/se-reperer-dans-le-backend.md).
 
 Pour éditer l'actualité, voir [Éditer une actualité](editer-une-actualite.md).
 

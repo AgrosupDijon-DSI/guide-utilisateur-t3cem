@@ -2,11 +2,11 @@
 
 * [Introduction](README.md)
 
-## Introduction
+## Première main
 
-* [Accès et identification](introduction/acces-et-identification.md)
-* [Se repérer dans le "Backend"](introduction/se-reperer-dans-le-backend.md)
-* [Éditer mon compte](introduction/editer-mon-compte.md)
+* [Accès et identification](premiere-main/acces-et-identification.md)
+* [Se repérer dans le "Backend"](premiere-main/se-reperer-dans-le-backend.md)
+* [Éditer mon compte](premiere-main/editer-mon-compte.md)
 
 ## Gestion des pages <a id="gestion-des-pages-1"></a>
 

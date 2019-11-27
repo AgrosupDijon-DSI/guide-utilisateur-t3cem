@@ -2,7 +2,7 @@
 
 Pour ajouter une nouvelle une page :
 
-* Sélectionner le mode **Page** dans la [Liste des modules](../introduction/se-reperer-dans-le-backend.md).
+* Sélectionner le mode **Page** dans la [Liste des modules](../premiere-main/se-reperer-dans-le-backend.md).
 * Cliquer sur le bouton ![](../.gitbook/assets/btn_add_page.png) d'ajout d'une nouvelle page.
 
 ![](../.gitbook/assets/add_page.png)
