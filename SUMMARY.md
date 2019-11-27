@@ -2,19 +2,6 @@
 
 * [Introduction](README.md)
 
-## Préambule
-
-* [Introduction](preambule/introduction.md)
-* [Organisation et fonctionnement](preambule/organisation-et-fonctionnement/README.md)
-  * [Structure du site](preambule/organisation-et-fonctionnement/structure-du-site.md)
-  * [Étapes préalables à la conception du site](preambule/organisation-et-fonctionnement/etapes-prealables-a-la-conception-du-site.md)
-  * [Acteurs](preambule/organisation-et-fonctionnement/acteurs.md)
-  * [Mentions légales](preambule/organisation-et-fonctionnement/mentions-legales.md)
-* [Règles rédactionnelles et d'illustration](preambule/regles-redactionnelles-et-dillustration/README.md)
-  * [Règles communes](preambule/regles-redactionnelles-et-dillustration/regles-communes.md)
-  * [Éléments fondamentaux d'une page web](preambule/regles-redactionnelles-et-dillustration/elements-fondamentaux-dune-page-web.md)
-  * [Éléments complémentaires d'une page web](preambule/regles-redactionnelles-et-dillustration/elements-complementaires-dune-page-web.md)
-
 ## Fiches d'utilisation de TYPO3
 
 * [Premiers pas](fiches-dutilisation-de-typo3/premiers-pas/README.md)

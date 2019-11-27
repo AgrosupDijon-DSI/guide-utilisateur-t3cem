@@ -7,7 +7,7 @@ Pour éditer une actualité :
 
 En haut de la vue détaillée, différentes actions sont proposées :
 
-![](../../.gitbook/assets/btn_page_cancel.png%20%281%29.png) annuler les modifications et retourner à la vue générale des actualités ;
+![](../../.gitbook/assets/btn_page_cancel.png-1.png) annuler les modifications et retourner à la vue générale des actualités ;
 
 ![](../../.gitbook/assets/btn_page_save.png) enregistrer les modifications ;
 

@@ -18,7 +18,7 @@ En haut de la vue détaillée, différentes actions sont proposées :
 
 ![](../../.gitbook/assets/btn_page_remove.png) supprimer la page ;
 
-![](../../.gitbook/assets/btn_page_restore%20%281%29.png) restaurer la page à un moment précis, en cas d'erreur par exemple ;
+![](../../.gitbook/assets/btn_page_restore-1.png) restaurer la page à un moment précis, en cas d'erreur par exemple ;
 
 ![](../../.gitbook/assets/add_page_edit_1.png)
 

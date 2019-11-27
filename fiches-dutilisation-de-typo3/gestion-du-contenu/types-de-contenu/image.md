@@ -20,7 +20,7 @@ Un onglet **Images** est disponible, il permet d'ajouter et configurer des image
 
 > Uniquement pour le contenu **Texte & Image**
 
-![](../../../.gitbook/assets/add_content_img_pos.png)
+![](../../../.gitbook/assets/add_content_img_pos%20%281%29.png)
 
 Ce champ permet de définir le placement de l'image par rapport au texte associé.
 
@@ -30,7 +30,7 @@ Ce champ définit le nombre d'images affichées par ligne.
 
 | 2 images sur 1 colonne | 3 images sur 2 colonnes | 5 images sur 3 colonnes |
 | :---: | :---: | :---: |
-| ![](../../../.gitbook/assets/add_content_img_ex3.png) | ![](../../../.gitbook/assets/add_content_img_ex1.png) | ![](../../../.gitbook/assets/add_content_img_ex2%20%281%29.png) |
+| ![](../../../.gitbook/assets/add_content_img_ex3%20%281%29.png) | ![](../../../.gitbook/assets/add_content_img_ex1.png) | ![](../../../.gitbook/assets/add_content_img_ex2-1.png) |
 
 ## **Images**
 
@@ -42,7 +42,7 @@ Pour ajouter une ou plusieurs images, cliquer sur le bouton **Ajouter une image*
 
 Une nouvelle fenêtre s'ouvre, articulée en deux colonnes, elle permet d'effectuer une sélection d'une ou plusieurs images.
 
-![](../../../.gitbook/assets/add_content_file1%20%281%29.png)
+![](../../../.gitbook/assets/add_content_file1-1.png)
 
 La colonne de gauche présente l'arborescence du dossier des ressources \(voir [Gestion des fichiers](https://www.gitbook.com/book/agrosup-dijon-eduter/guide-utilisation-typo3/edit#)\), sélectionner le répertoire contenant la ou les images à insérer.
 
@@ -76,9 +76,9 @@ En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur **
 
 Une fois les images importées, elles s'affichent par ordre d'apparition et peuvent être modifiées :
 
-![](../../../.gitbook/assets/rm_btn%20%281%29.png) supprimer l'image du contenu \(ne supprime pas l'image du dossier de ressource\) ;
+![](../../../.gitbook/assets/rm_btn-1.png) supprimer l'image du contenu \(ne supprime pas l'image du dossier de ressource\) ;
 
-![](../../../.gitbook/assets/hide_btn.png) cacher/afficher l'image ;
+![](../../../.gitbook/assets/hide_btn%20%281%29.png) cacher/afficher l'image ;
 
 ![](../../../.gitbook/assets/btn_select.png) sélectionner l'image pour changer l'ordre d'apparition par glisser/déposer :
 
