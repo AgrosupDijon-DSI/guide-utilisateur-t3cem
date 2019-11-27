@@ -2,18 +2,18 @@
 
 Pour éditer une actualité :
 
-* Sélectionner le mode **Gestion des Actualités** dans la [Liste des modules](../premiers-pas/se-reperer-dans-le-backend.md) ;
-* Cliquer sur l'icône ![](../../.gitbook/assets/icone_actu.png) de l'actualité cible dans la [Vue détaillée](../premiers-pas/se-reperer-dans-le-backend.md) puis **Éditer**.
+* Sélectionner le mode **Gestion des Actualités** dans la [Liste des modules](../se-reperer-dans-le-backend.md) ;
+* Cliquer sur l'icône ![](../.gitbook/assets/icone_actu.png) de l'actualité cible dans la [Vue détaillée](../se-reperer-dans-le-backend.md) puis **Éditer**.
 
 En haut de la vue détaillée, différentes actions sont proposées :
 
-![](../../.gitbook/assets/btn_page_cancel.png-1.png) annuler les modifications et retourner à la vue générale des actualités ;
+![](../.gitbook/assets/btn_page_cancel.png-1.png) annuler les modifications et retourner à la vue générale des actualités ;
 
-![](../../.gitbook/assets/btn_page_save.png) enregistrer les modifications ;
+![](../.gitbook/assets/btn_page_save.png) enregistrer les modifications ;
 
-![](../../.gitbook/assets/btn_page_remove.png) supprimer l'actualité.
+![](../.gitbook/assets/btn_page_remove.png) supprimer l'actualité.
 
-![](../../.gitbook/assets/add_actu_detail.png)
+![](../.gitbook/assets/add_actu_detail.png)
 
 ## Général
 
