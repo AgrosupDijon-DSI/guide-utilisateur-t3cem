@@ -2,9 +2,9 @@
 
 Pour éditer une page :
 
-* Sélectionner le mode **Page** dans la [Liste des modules](../premiere-main/se-reperer-dans-le-backend.md) ;
-* Cliquer sur la page à modifier dans l'[Arborescence](../premiere-main/se-reperer-dans-le-backend.md);
-* Cliquer sur l’icône ![](../.gitbook/assets/add_page_edit.png) **Modifier les propriétés de la page** dans la [Vue détaillée](../premiere-main/se-reperer-dans-le-backend.md).
+* Sélectionner le mode **Page** dans la [Liste des modules](../prise-en-main/se-reperer-dans-le-backend.md) ;
+* Cliquer sur la page à modifier dans l'[Arborescence](../prise-en-main/se-reperer-dans-le-backend.md);
+* Cliquer sur l’icône ![](../.gitbook/assets/add_page_edit.png) **Modifier les propriétés de la page** dans la [Vue détaillée](../prise-en-main/se-reperer-dans-le-backend.md).
 
 En haut de la vue détaillée, différentes actions sont proposées :
 

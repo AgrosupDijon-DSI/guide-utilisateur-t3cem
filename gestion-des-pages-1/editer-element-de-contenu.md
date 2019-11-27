@@ -2,10 +2,10 @@
 
 Pour éditer, cacher ou supprimer un contenu existant dans une page :
 
-* Sélectionner le mode **Page** dans la [Liste des modules](../premiere-main/se-reperer-dans-le-backend.md) ;
-* Cliquer sur la page dans laquelle doit être inséré le contenu dans l'[Arborescence](../premiere-main/se-reperer-dans-le-backend.md);
+* Sélectionner le mode **Page** dans la [Liste des modules](../prise-en-main/se-reperer-dans-le-backend.md) ;
+* Cliquer sur la page dans laquelle doit être inséré le contenu dans l'[Arborescence](../prise-en-main/se-reperer-dans-le-backend.md);
 
-La liste des contenus présents dans la page est organisée par zone d'affichage \(en fonction du modèle du site\) et affiché dans la [Vue détaillée](../premiere-main/se-reperer-dans-le-backend.md).
+La liste des contenus présents dans la page est organisée par zone d'affichage \(en fonction du modèle du site\) et affiché dans la [Vue détaillée](../prise-en-main/se-reperer-dans-le-backend.md).
 
 ![](../.gitbook/assets/edit_content.png)
 

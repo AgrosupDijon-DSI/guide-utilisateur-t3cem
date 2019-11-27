@@ -2,8 +2,8 @@
 
 Pour éditer une actualité :
 
-* Sélectionner le mode **Gestion des Actualités** dans la [Liste des modules](../premiere-main/se-reperer-dans-le-backend.md) ;
-* Cliquer sur l'icône ![](../.gitbook/assets/icone_actu.png) de l'actualité cible dans la [Vue détaillée](../premiere-main/se-reperer-dans-le-backend.md) puis **Éditer**.
+* Sélectionner le mode **Gestion des Actualités** dans la [Liste des modules](../prise-en-main/se-reperer-dans-le-backend.md) ;
+* Cliquer sur l'icône ![](../.gitbook/assets/icone_actu.png) de l'actualité cible dans la [Vue détaillée](../prise-en-main/se-reperer-dans-le-backend.md) puis **Éditer**.
 
 En haut de la vue détaillée, différentes actions sont proposées :
 

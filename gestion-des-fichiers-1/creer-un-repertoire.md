@@ -2,9 +2,9 @@
 
 Pour créer un nouveau répertoire :
 
-* Sélectionner le mode **Fichiers** dans la [Liste des modules](../premiere-main/se-reperer-dans-le-backend.md).
+* Sélectionner le mode **Fichiers** dans la [Liste des modules](../prise-en-main/se-reperer-dans-le-backend.md).
 * Cliquer sur le répertoire parent dans lequel doit être inséré le nouveau répertoire ;
-* Cliquer sur le bouton ![](../.gitbook/assets/btn_add_new.png) **Nouveau** dans la [Vue détaillée](../premiere-main/se-reperer-dans-le-backend.md) :
+* Cliquer sur le bouton ![](../.gitbook/assets/btn_add_new.png) **Nouveau** dans la [Vue détaillée](../prise-en-main/se-reperer-dans-le-backend.md) :
 
 ![](../.gitbook/assets/add_file_rep.png)
 
