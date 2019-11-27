@@ -1,2 +1,2 @@
-# Logos
+# Logos du site
 
