@@ -12,5 +12,5 @@ L'interface de gestion se nomme le **Backend**, il s'agit d'une zone d'administr
 
 L'accès aux fonctionnalités de TYPO3 est réservé aux utilisateurs possédant un identifiant et un mot de passe de connexion attribués par l'administrateur ou par le responsable éditorial.
 
-TYPO3 fonctionne avec différents navigateurs tels que Edge, Chrome ou Mozilla Firefox. Le navigateur doit accepter les cookies et le JavaScript doit être activé. La gestion du cache du navigateur doit être configurée de telle façon qu'à chaque visite de la page, le système vérifie s'il en existe une version plus récente. Il convient de solliciter l'aide de votre administrateur pour réaliser ces réglages en cas de difficultés.
+TYPO3 fonctionne avec différents navigateurs tels que Edge, Chrome ou Mozilla Firefox. Le navigateur doit accepter les cookies et le JavaScript doit être activé.
 
