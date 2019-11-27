@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Premiers pas](fiches-dutilisation-de-typo3/premiers-pas/README.md)
+* [Introduction](README.md)
   * [Accès et identification](fiches-dutilisation-de-typo3/premiers-pas/acces-et-identification.md)
   * [Se repérer dans le "Backend"](fiches-dutilisation-de-typo3/premiers-pas/se-reperer-dans-le-backend.md)
   * [Éditer mon compte](fiches-dutilisation-de-typo3/premiers-pas/editer-mon-compte.md)
