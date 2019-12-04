@@ -4,7 +4,7 @@ Après identification, TYPO3 propose d'accéder directement à différents espac
 
 ## Barre d'outils
 
-![La barre d&apos;outils de TYPO3](../.gitbook/assets/image%20%281%29.png)
+![La barre d&apos;outils de TYPO3](../.gitbook/assets/image%20%282%29.png)
 
 Cette barre, affichée en entête de manière permanente, permet \(de gauche à droite\) :
 
@@ -16,7 +16,7 @@ Cette barre, affichée en entête de manière permanente, permet \(de gauche à 
 
 ## Zones de gestion
 
-![De gauche &#xE0; droite : Liste de modules / Arborescence / Vue d&#xE9;taill&#xE9;e](../.gitbook/assets/image%20%284%29.png)
+![De gauche &#xE0; droite : Liste de modules / Arborescence / Vue d&#xE9;taill&#xE9;e](../.gitbook/assets/image%20%285%29.png)
 
 ### Liste des modules
 
@@ -34,5 +34,5 @@ Cet espace permet de créer ou sélectionner, de façon hiérarchique, les dossi
 
 ### Vue détaillée
 
-A partir d'une page ou dossier sélectionné, cette zone affiche les éléments de contenu ou autres éléments liés en fonction du module sélectionné dans la zone 1.
+A partir d'une page ou dossier sélectionné, cette zone affiche les éléments de contenu ou autres éléments liés en fonction du module sélectionné dans la Liste des modules.
 
