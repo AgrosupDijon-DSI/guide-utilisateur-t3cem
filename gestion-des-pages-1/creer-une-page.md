@@ -9,13 +9,10 @@ Pour ajouter une nouvelle une page :
 
 Différents styles d'ajout sont à disposition :
 
-![](../.gitbook/assets/add_page_s.png) page standard
-
-![](../.gitbook/assets/add_page_r.png) raccourci vers une page du site
-
-![](../.gitbook/assets/add_page_l.png) lien vers une page externe
-
-![](../.gitbook/assets/add_page_d.png) dossier
+* ![](../.gitbook/assets/add_page_s.png) page standard
+* ![](../.gitbook/assets/add_page_r.png) raccourci vers une page du site
+* ![](../.gitbook/assets/add_page_l.png) lien vers une page externe
+* ![](../.gitbook/assets/add_page_d.png) dossier
 
 Cliquer sur le style page standard et glisser-déposer à l'endroit où placer la page dans l'arborescence, défini par un trait bleu.
 

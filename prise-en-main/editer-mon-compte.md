@@ -1,6 +1,6 @@
 # Éditer mon compte
 
-![](../.gitbook/assets/admin_typo3_account.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 Dans la barre d'outils, un sous-menu s'affiche lors du clic sur l'icône ou sur le nom utilisateur. Il est possible ainsi de :
 
@@ -9,23 +9,25 @@ Dans la barre d'outils, un sous-menu s'affiche lors du clic sur l'icône ou sur 
 
 Le formulaire d'édition permet de modifier diverses informations et de configurer votre compte à partir de trois onglets :
 
-![](../.gitbook/assets/admin_typo3_edit_account.png)
-
-> ![](../.gitbook/assets/save.png)
->
-> **Note :** pour que les modifications soient sauvegardées, cliquer sur le bouton "Enregistrer" en haut du formulaire.
-
-## Données personnelles
-
+{% tabs %}
+{% tab title="Données personnelles" %}
 Cet onglet permet d'éditer les informations liées à votre compte et d'insérer une adresse email afin de recevoir les notifications administrateur du "Backend".
+{% endtab %}
 
-## Mot de passe
-
+{% tab title="Mot de passe" %}
 Permet de modifier le mot de passe du compte.
 
 > **Note :** Le mot de passe initial est demandé pour enregistrer un nouveau.
+{% endtab %}
 
-## Démarrage
-
+{% tab title="Démarrage" %}
 A la connexion au "Backend", le mode **Page** s'affiche par défaut. Cet onglet permet de modifier ce comportement et de sélectionner un autre module comme **Gestion des Actualités** par exemple.
+{% endtab %}
+{% endtabs %}
+
+{% hint style="warning" %}
+Pour que les modifications soient sauvegardées, cliquer sur le bouton **Enregistrer** en haut du formulaire.
+{% endhint %}
+
+
 
