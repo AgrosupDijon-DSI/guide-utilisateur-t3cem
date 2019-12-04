@@ -4,7 +4,7 @@ Après identification, TYPO3 propose d'accéder directement à différents espac
 
 ## Barre d'outils
 
-![Barre d&apos;outils de TYPO3](../.gitbook/assets/image%20%281%29.png)
+![La barre d&apos;outils de TYPO3](../.gitbook/assets/image%20%281%29.png)
 
 Cette barre, affichée en entête de manière permanente, permet \(de gauche à droite\) :
 
@@ -16,24 +16,23 @@ Cette barre, affichée en entête de manière permanente, permet \(de gauche à 
 
 ## Zones de gestion
 
-![](../.gitbook/assets/admin_typo3_1.png)
+![De gauche &#xE0; droite : Liste de modules / Arborescence / Vue d&#xE9;taill&#xE9;e](../.gitbook/assets/image%20%284%29.png)
 
-### Zone 1 \| Liste des modules
+### Liste des modules
 
 Sous forme de menu, cet élément représente le point d'entrée pour toutes les actions d'administration :
 
 * Page : permet de gérer les pages du site ainsi que leurs contenus ;
 * Voir : permet de prévisualiser une page depuis l'interface d'administration ;
-* Liste : permet de gérer les enregistrements liés à une page ;
 * Gestion des Actualités : permet de gérer les actualités du site ;
 * Fichiers : permet gérer les fichiers stockés sur le site ;
 * Website : permet de configurer les informations du site.
 
-### Zone 2 \| Arborescence
+### Arborescence
 
 Cet espace permet de créer ou sélectionner, de façon hiérarchique, les dossiers et pages du site.
 
-### Zone 3 \| Vue détaillée
+### Vue détaillée
 
 A partir d'une page ou dossier sélectionné, cette zone affiche les éléments de contenu ou autres éléments liés en fonction du module sélectionné dans la zone 1.
 
