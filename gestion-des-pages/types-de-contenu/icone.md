@@ -22,15 +22,17 @@ Pour chaque élément créer, il est possible de :
 {% endtab %}
 {% endtabs %}
 
-### Apparence 
+{% hint style="info" %}
+### Spécificités d'apparence
 
-Il est possible de modifier l'affiche des icônes ajoutées :
+Il est possible de modifier l'affiche des icônes ajoutées dans l'onglet [Apparence de l'élément de contenu](../apparence-element-de-contenu.md) :
 
-**Colonnes** : spécifie sur combien de colonne s'affichent les éléments, par exemple, si 3 éléments doivent être affichés sur la même ligne, selectionner 3 colonnes.
+**Colonnes** : spécifie sur combien de colonne s'affichent les éléments, par exemple, si 3 éléments doivent être affichés sur la même ligne, sélectionner 3 colonnes.
 
 **Alignement de l'icône** : l'icône est positionnée à gauche du texte par défaut, il est possible de changer cette position \(an haut, à droite, en bas\).
 
-**Style** : il est possible de centrer le texte par rapport à l'icône ou de le placer à droite. Également de centrer tous les élements dans la pages.
+**Style** : il est possible de centrer le texte par rapport à l'icône ou de le placer à droite. Également de centrer tous les éléments dans la pages.
+{% endhint %}
 
 
 

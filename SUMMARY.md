@@ -15,6 +15,7 @@
 * [Éditer une page](gestion-des-pages/editer-une-page.md)
 * [Créer un élément de contenu](gestion-des-pages/creer-un-element-de-contenu.md)
 * [Éditer élément de contenu](gestion-des-pages/editer-element-de-contenu.md)
+* [Apparence d'un élément de contenu](gestion-des-pages/apparence-element-de-contenu.md)
 * [Types de contenu](gestion-des-pages/types-de-contenu/README.md)
   * [Titre](gestion-des-pages/types-de-contenu/titre.md)
   * [Texte](gestion-des-pages/types-de-contenu/texte.md)
