@@ -33,7 +33,7 @@ En haut de la vue détaillée, différentes actions sont proposées :
 
 **Archives** : date d'archivage de l'actualité ;
 
-**Editeur RTE** : contenu de l'actualité.
+**Texte** : contenu de l'actualité.
 
 ## Accès
 
