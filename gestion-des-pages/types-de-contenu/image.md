@@ -2,11 +2,11 @@
 
 A partir de la liste vue dans [Créer un élément de contenu](../creer-un-element-de-contenu.md), sélectionner :
 
-![Images uniquement](../../.gitbook/assets/image%20%2816%29.png)
+![Images uniquement](../../.gitbook/assets/image%20%2817%29.png)
 
 Il est également possible de combiner un élément **Images** avec un élément **Texte**, sélectionner :
 
-![Texte &amp; images](../../.gitbook/assets/image%20%2818%29.png)
+![Texte &amp; images](../../.gitbook/assets/image%20%2819%29.png)
 
 > **Note :** Comme dans la plupart des types de contenu, il est possible de renseigner un **Titre**. Pour plus d'informations, se référer à la fiche de l'élément [Titre](titre.md).
 >

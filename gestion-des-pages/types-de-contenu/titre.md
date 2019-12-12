@@ -2,7 +2,7 @@
 
 A partir de la liste vue dans [Créer un élément de contenu](../creer-un-element-de-contenu.md), sélectionner :
 
-![Titre](../../.gitbook/assets/image%20%2819%29.png)
+![Titre](../../.gitbook/assets/image%20%2820%29.png)
 
 Le principal intérêt du contenu de type **Titre** est d'être associé à un contenu particulier qui ne possède pas de titre.
 
@@ -18,23 +18,17 @@ Le principal intérêt du contenu de type **Titre** est d'être associé à un c
 Chaque élément de contenu possède une section **Titre**.
 {% endhint %}
 
-## **Titre**
+**Titre** : ****Insérer le texte qui sera affiché en tant que titre.
 
-Insérer le texte qui sera affiché en tant que titre.
+**Type** : Associé au titre, il détermine le style d'affichage du **Titre**. A choisir en fonction du niveau de titre \(H1 = Titre de niveau 1, H2 = Titre de niveau 2...\).
 
-## **Type**
-
-Associé au titre, il détermine le style d'affichage du **Titre**. A choisir en fonction du niveau de titre \(H1 = Titre de niveau 1, H2 = Titre de niveau 2...\).
-
+{% hint style="info" %}
 Le type **Caché** masque l'en-tête pour les internautes.
+{% endhint %}
 
-## **Alignement**
+**Alignement** : Affiche le titre à gauche, droite ou au centre ;
 
-Affiche le titre à gauche, droite ou au centre ;
-
-## **Lien**
-
-Le titre peut être un lien et pointer vers une page interne du site ou vers un autre site.
+**Lien :** Le titre peut être un lien et pointer vers une page interne du site ou vers un autre site.
 
 
 
