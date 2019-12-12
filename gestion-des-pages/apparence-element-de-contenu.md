@@ -2,7 +2,7 @@
 
 Chaque élément peut être personnalisé de façon individuel. Pour ajouter une configuration spécifique, sélectionner l'onglet **Apparence** dans l'édition du contenu :
 
-**Disposition** : disposition de l'élément de contenu \(ne peut être configuré acutellement\).
+**Disposition** : disposition de l'élément de contenu \(ne peut être configuré actuellement\).
 
 **Cadre** : définit le cadre de l'élément :
 
