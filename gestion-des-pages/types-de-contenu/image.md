@@ -18,11 +18,13 @@ Un onglet **Images** est disponible, il permet d'ajouter et configurer des image
 
 ## Position
 
-> Uniquement pour le contenu **Texte & Image**
-
 ![](../../.gitbook/assets/add_content_img_pos%20%281%29.png)
 
 Ce champ permet de définir le placement de l'image par rapport au texte associé.
+
+{% hint style="warning" %}
+Uniquement pour le contenu **Texte & Image**
+{% endhint %}
 
 ## **Colonnes**
 
@@ -35,8 +37,6 @@ Ce champ définit le nombre d'images affichées par ligne.
 ## **Images**
 
 Cette zone permet d'ajouter une ou plusieurs images.
-
-![](../../.gitbook/assets/add_content_btn_add1.png)
 
 Pour ajouter une ou plusieurs images, cliquer sur le bouton **Ajouter une image**.
 
@@ -60,17 +60,13 @@ Sélectionner les images désirées et cliquer sur **\*\*l'icône** Importer la 
 
 Si l'image n'existe pas dans le répertoire des ressources, il faut alors la télécharger depuis le poste utilisateur.
 
-![](../../.gitbook/assets/file_upload.png)
+Cliquer alors sur **Envoyer des fichiers**. Cliquer sur **Parcourir** pour sélectionner les fichiers images depuis le poste utilisateur. Cliquer sur **Envoyer des fichiers** pour télécharger les images dans le répertoire sélectionné dans la colonne arborescence du dossier des ressources.
 
-En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur **Parcourir** pour sélectionner les fichiers images depuis le poste utilisateur. Cliquer sur **Envoyer des fichiers** pour télécharger les images dans le répertoire sélectionné dans la colonne arborescence du dossier des ressources.
+{% hint style="success" %}
+Il est possible d'ajouter directement une ou plusieurs images depuis le poste utilisateur, cliquer sur le bouton **Sélectionner et transférer des fichiers**.
 
-> **Note :**
->
-> ![](../../.gitbook/assets/btn_import_img.png)
->
-> Il est possible d'ajouter directement une ou plusieurs images depuis le poste utilisateur, cliquer sur le bouton **Sélectionner et transférer des fichiers**.
->
-> Une nouvelle fenêtre \(en fonction du système d'exploitation de l'utilisateur\) pour la sélection du fichier s'affiche. L'image est ainsi téléchargée sur le serveur, dans le dossier des ressources \(voir [Gestion des fichiers](https://www.gitbook.com/book/agrosup-dijon-eduter/guide-utilisation-typo3/edit#)\).
+Une nouvelle fenêtre \(en fonction du système d'exploitation de l'utilisateur\) pour la sélection du fichier s'affiche. L'image est ainsi téléchargée sur le serveur, dans le dossier des ressources \(voir [Gestion des fichiers](https://www.gitbook.com/book/agrosup-dijon-eduter/guide-utilisation-typo3/edit#)\).
+{% endhint %}
 
 ![](../../.gitbook/assets/add_content_img_list.png)
 
@@ -98,21 +94,19 @@ Cliquer sur **Nom de fichier** pour éditer les informations relatives à l'imag
 
 **Manipulation des images :** recadrer l'image avec un éditeur simple.
 
-## Agrandissement au clic
-
-Une fois activée, cette option permet d'agrandir l'image à la taille de l'écran de l'internaute lors du clic sur cette dernière.
+**Agrandissement au clic** : Une fois activée, cette option permet d'agrandir l'image à la taille de l'écran de l'internaute lors du clic sur cette dernière.
 
 ![](../../.gitbook/assets/add_content_image_texte_apparence.png)
 
 Pour le contenu **Texte & Image**, un onglet **Apparences** est disponible, il permet de modifier la taille de la colonne image.
 
-## Mise en page
+**Taille** : Ce champ définit la taille de colonne des images :
 
-> Uniquement pour le contenu **Texte & Image**
+| 80% | 60% | 40% | 20% | Par défaut \(100%\) |
+| :---: | :---: | :---: | :---: | :---: |
+| ![](../../.gitbook/assets/add_image_texte_col33.png) | ![](../../.gitbook/assets/add_image_texte_col33.png) | ![](../../.gitbook/assets/add_image_texte_col25.png) | ![](../../.gitbook/assets/add_image_texte_col20.png) | ![](../../.gitbook/assets/add_image_texte_col50.png) |
 
-Ce champ définit la taille de colonne des images :
-
-| 1/3 | 1/4 | 1/6 | Par défaut \(1/2\) |
-| :---: | :---: | :---: | :---: |
-| ![](../../.gitbook/assets/add_image_texte_col33.png) | ![](../../.gitbook/assets/add_image_texte_col25.png) | ![](../../.gitbook/assets/add_image_texte_col20.png) | ![](../../.gitbook/assets/add_image_texte_col50.png) |
+{% hint style="warning" %}
+Uniquement pour le contenu **Texte & Image**
+{% endhint %}
 
