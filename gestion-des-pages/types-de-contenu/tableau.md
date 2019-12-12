@@ -2,7 +2,7 @@
 
 A partir de la liste vue dans [Créer un élément de contenu](../creer-un-element-de-contenu.md), sélectionner : 
 
-![Tableau](../../.gitbook/assets/image%20%2817%29.png)
+![Tableau](../../.gitbook/assets/image%20%2823%29.png)
 
 {% hint style="success" %}
 Le contenu tableau contient un assistant de création afin de rendre la construction plus simple et graphique. Il faut préalablement enregistrer une première fois le contenu pour voir l'icône de l'assistance s'afficher à côté du champ **Contenu de tableau**.

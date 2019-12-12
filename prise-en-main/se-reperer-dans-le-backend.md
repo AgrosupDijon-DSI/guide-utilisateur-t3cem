@@ -4,7 +4,7 @@ Après identification, TYPO3 propose d'accéder directement à différents espac
 
 ## Barre d'outils
 
-![La barre d&apos;outils de TYPO3](../.gitbook/assets/image%20%285%29.png)
+![La barre d&apos;outils de TYPO3](../.gitbook/assets/image%20%286%29.png)
 
 Cette barre, affichée en entête de manière permanente, permet \(de gauche à droite\) :
 
@@ -16,7 +16,7 @@ Cette barre, affichée en entête de manière permanente, permet \(de gauche à 
 
 ## Zones de gestion
 
-![De gauche &#xE0; droite : Liste de modules / Arborescence / Vue d&#xE9;taill&#xE9;e](../.gitbook/assets/image%20%2814%29.png)
+![De gauche &#xE0; droite : Liste de modules / Arborescence / Vue d&#xE9;taill&#xE9;e](../.gitbook/assets/image%20%2817%29.png)
 
 ### Liste des modules
 

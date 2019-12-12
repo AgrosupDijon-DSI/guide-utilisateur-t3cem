@@ -8,7 +8,7 @@ Pour éditer une page :
 
 En haut de la vue détaillée, différentes actions sont proposées :
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 * Fermer et retourner à la vue générale de la page ;
 * Enregistrer les modifications ;
