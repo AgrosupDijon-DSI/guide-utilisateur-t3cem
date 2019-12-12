@@ -1,2 +1,0 @@
-# Liste à puces
-
