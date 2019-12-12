@@ -2,7 +2,7 @@
 
 A partir de la liste vue dans [Créer un élément de contenu](../creer-un-element-de-contenu.md), dans l'onglet **Éléments spéciaux**, sélectionner : 
 
-![Carrousel](../../.gitbook/assets/image%20%2827%29.png)
+![Carrousel](../../.gitbook/assets/image%20%2828%29.png)
 
 Ajouter des éléments dans la section **Élément de carrousel** et **Créer un nouvel enregistrement**.
 

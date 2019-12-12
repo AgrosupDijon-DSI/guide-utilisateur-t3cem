@@ -23,6 +23,7 @@
   * [Liste à puces](gestion-des-pages/types-de-contenu/liste-a-puces.md)
   * [Tableau](gestion-des-pages/types-de-contenu/tableau.md)
   * [Média](gestion-des-pages/types-de-contenu/media.md)
+  * [Vignette](gestion-des-pages/types-de-contenu/vignette.md)
   * [Icône](gestion-des-pages/types-de-contenu/icone.md)
   * [Accordéon](gestion-des-pages/types-de-contenu/accordeon.md)
   * [Onglet](gestion-des-pages/types-de-contenu/onglet.md)

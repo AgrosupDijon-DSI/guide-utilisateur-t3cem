@@ -2,5 +2,5 @@
 
 A partir de la liste vue dans [Créer un élément de contenu](../creer-un-element-de-contenu.md), dans l'onglet **Formulaires**, sélectionner : 
 
-![Form](../../.gitbook/assets/image%20%2821%29.png)
+![Form](../../.gitbook/assets/image%20%2822%29.png)
 
