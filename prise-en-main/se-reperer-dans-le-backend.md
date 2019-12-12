@@ -16,7 +16,7 @@ Cette barre, affichée en entête de manière permanente, permet \(de gauche à 
 
 ## Zones de gestion
 
-![De gauche &#xE0; droite : Liste de modules / Arborescence / Vue d&#xE9;taill&#xE9;e](../.gitbook/assets/image%20%2817%29.png)
+![De gauche &#xE0; droite : Liste de modules / Arborescence / Vue d&#xE9;taill&#xE9;e](../.gitbook/assets/image%20%2818%29.png)
 
 ### Liste des modules
 

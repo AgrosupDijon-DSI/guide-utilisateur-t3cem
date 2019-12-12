@@ -2,7 +2,7 @@
 
 A partir de la liste vue dans [Créer un élément de contenu](../creer-un-element-de-contenu.md), dans l'onglet **Éléments spéciaux**, sélectionner : 
 
-![Onglet](../../.gitbook/assets/image%20%2812%29.png)
+![Onglet](../../.gitbook/assets/image%20%2813%29.png)
 
 Ajouter des éléments dans la section **Onglet** et **Créer un nouvel enregistrement**.
 

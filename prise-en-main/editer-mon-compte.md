@@ -1,6 +1,6 @@
 # Éditer mon compte
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 Dans la barre d'outils, un sous-menu s'affiche lors du clic sur l'icône ou sur le nom utilisateur. Il est possible ainsi de :
 
