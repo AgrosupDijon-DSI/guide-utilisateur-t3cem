@@ -7,7 +7,7 @@ L'accès à l'administration se fait après identification à l'adresse https://
 Par défaut, deux comptes sont fournis pour s'identifier :
 
 * Un administrateur : permet d'accéder aux fonctionnalités avancées ;
-* ~~Un rédacteur : permet de mettre à jour les contenus avec des droits restreints.~~
+* Un rédacteur : permet de mettre à jour les contenus avec des droits restreints.
 
 {% hint style="info" %}
 Dans ce guide, nous vous présentons uniquement l'utilisation de l'interface de gestion avec le profil "administrateur".
