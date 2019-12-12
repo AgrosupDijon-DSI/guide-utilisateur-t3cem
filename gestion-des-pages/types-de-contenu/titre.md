@@ -2,7 +2,7 @@
 
 A partir de la liste vue dans [Créer un élément de contenu](../creer-un-element-de-contenu.md), sélectionner :
 
-![](../../.gitbook/assets/add_content_titre.png)
+![Titre](../../.gitbook/assets/image%20%2819%29.png)
 
 Le principal intérêt du contenu de type **Titre** est d'être associé à un contenu particulier qui ne possède pas de titre.
 
@@ -13,6 +13,10 @@ Le principal intérêt du contenu de type **Titre** est d'être associé à un c
 * c’est l’intitulé du paragraphe ou de la section ;
 * il peut également n'être qu'une indication de contenu \(sommaire, note de service\) utile pour faire des liens à l'intérieur de la page mais qui n'aurait aucun intérêt à être affiché pour l'internaute ; auquel cas, il est possible de lui affecter le type "Caché" ;
 * le titre de l’élément de contenu permet également de repérer plus facilement les contenus dans l’interface d’administration TYPO3.
+
+{% hint style="info" %}
+Chaque élément de contenu possède une section **Titre**.
+{% endhint %}
 
 ## **Titre**
 
@@ -31,4 +35,6 @@ Affiche le titre à gauche, droite ou au centre ;
 ## **Lien**
 
 Le titre peut être un lien et pointer vers une page interne du site ou vers un autre site.
+
+
 

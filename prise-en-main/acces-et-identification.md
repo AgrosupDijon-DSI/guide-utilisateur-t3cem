@@ -2,7 +2,7 @@
 
 L'accès à l'administration se fait après identification à l'adresse https://**\[adresse-de-votre-site.fr\]**/typo3 :
 
-![&#xC9;cran de login TYPO3](../.gitbook/assets/image%20%285%29.png)
+![&#xC9;cran de login TYPO3](../.gitbook/assets/image%20%286%29.png)
 
 Par défaut, deux comptes sont fournis pour s'identifier :
 

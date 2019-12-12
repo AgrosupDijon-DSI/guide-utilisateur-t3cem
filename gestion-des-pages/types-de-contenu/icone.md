@@ -2,7 +2,7 @@
 
 A partir de la liste vue dans [Créer un élément de contenu](../creer-un-element-de-contenu.md), dans l'onglet **Éléments spéciaux**, sélectionner : 
 
-![Groupe d&apos;ic&#xF4;ne](../../.gitbook/assets/image%20%289%29.png)
+![Groupe d&apos;ic&#xF4;ne](../../.gitbook/assets/image%20%2810%29.png)
 
 Ajouter des éléments dans la section **Élément groupe d'icônes**.
 

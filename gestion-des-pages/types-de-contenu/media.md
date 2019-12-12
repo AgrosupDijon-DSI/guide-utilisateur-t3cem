@@ -1,14 +1,18 @@
 # Média
 
-> **Note :** Ce contenu permet d'ajouter des vidéos provenant des services Youtube et Vimeo uniquement.
-
 A partir de la liste vue dans [Créer un élément de contenu](../creer-un-element-de-contenu.md), sélectionner :
 
-![](../../.gitbook/assets/add_content_media.png)
+![Vid&#xE9;o](../../.gitbook/assets/image%20%2812%29.png)
 
 Il est également possible de combiner un élément **Média** avec un élément **Texte**, sélectionner :
 
-![](../../.gitbook/assets/add_content_media_texte.png)
+![Texte &amp; M&#xE9;dia](../../.gitbook/assets/image%20%284%29.png)
+
+{% hint style="warning" %}
+Le contenu **Vidéo** permet d'ajouter uniquement des éléments provenant de Youtube et Vimeo.
+
+Le contenu **Texte et Média** est plus permisif et permet d'ajouter différentes sources de média.
+{% endhint %}
 
 > **Note :** Comme dans la plupart des types de contenu, il est possible de renseigner un **Titre**. Pour plus d'informations, se référer à la fiche de l'élément [Titre](titre.md).
 >

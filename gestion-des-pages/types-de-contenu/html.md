@@ -2,5 +2,5 @@
 
 A partir de la liste vue dans [Créer un élément de contenu](../creer-un-element-de-contenu.md), dans l'onglet **Éléments spéciaux**, sélectionner : 
 
-![HTML](../../.gitbook/assets/image%20%2820%29.png)
+![HTML](../../.gitbook/assets/image%20%2826%29.png)
 

@@ -2,7 +2,7 @@
 
 A partir de la liste vue dans [Créer un élément de contenu](../creer-un-element-de-contenu.md), sélectionner :
 
-![](../../.gitbook/assets/add_content_texte.png)
+![&#xC9;l&#xE9;ment de texte simple](../../.gitbook/assets/image%20%2825%29.png)
 
 > **Note :** Comme dans la plupart des types de contenu, il est possible de renseigner un **Titre**. Pour plus d'informations, se référer à la fiche de l'élément [Titre](titre.md).
 
