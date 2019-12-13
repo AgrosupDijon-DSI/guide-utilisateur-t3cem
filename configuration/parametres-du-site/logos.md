@@ -14,5 +14,5 @@ Pour chaque logo, il est possible de définir un lien vers un site extérieur en
 
 **Favicon** : charger une image représentant le site dans les moteurs de recherche et l'onglet du navigateur.
 
-**Cacher les logos gouvernementaux** : chache ou non les logos du ministère de l'Agriculture.
+**Cacher les logos gouvernementaux** : cache ou non les logos du ministère de l'Agriculture.
 
