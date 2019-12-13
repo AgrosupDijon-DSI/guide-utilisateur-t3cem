@@ -52,8 +52,10 @@
 ## Configuration
 
 * [Charte graphique](configuration/charte-graphique.md)
-* [SEO et Google Analytics](configuration/seo-et-google-analytics.md)
-* [Logos du site](configuration/logos.md)
-* [Réseaux sociaux](configuration/reseaux-sociaux.md)
+* [Paramètres du site](configuration/parametres-du-site/README.md)
+  * [SEO](configuration/parametres-du-site/seo.md)
+  * [Logos du site](configuration/parametres-du-site/logos.md)
+  * [Réseaux sociaux](configuration/parametres-du-site/reseaux-sociaux.md)
+  * [Google Analytics](configuration/parametres-du-site/google-analytics.md)
 * [Vider le cache](configuration/vider-le-cache.md)
 
