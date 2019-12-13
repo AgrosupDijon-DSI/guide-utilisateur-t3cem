@@ -55,7 +55,9 @@
 * [Paramètres du site](configuration/parametres-du-site/README.md)
   * [SEO](configuration/parametres-du-site/seo.md)
   * [Logos du site](configuration/parametres-du-site/logos.md)
-  * [Réseaux sociaux](configuration/parametres-du-site/reseaux-sociaux.md)
+  * [Menu](configuration/parametres-du-site/menu.md)
   * [Google Analytics](configuration/parametres-du-site/google-analytics.md)
+  * [Adresse](configuration/parametres-du-site/adresse.md)
+  * [Réseaux sociaux](configuration/parametres-du-site/reseaux-sociaux.md)
 * [Vider le cache](configuration/vider-le-cache.md)
 
