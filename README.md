@@ -1,5 +1,5 @@
 ---
-description: Guide d'utilisation TYPO3
+description: Guide d'utilisation DOTEA - TYPO3
 ---
 
 # Introduction
